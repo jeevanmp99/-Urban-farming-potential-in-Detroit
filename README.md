@@ -1,4 +1,4 @@
-# 🌿 Urban Farming Potential in Detroit
+# Urban Farming Potential in Detroit
 
 This repository presents a spatial analysis project titled **“Urban Farming Potential in Detroit”**, carried out as part of a GIS capstone track. The study identifies the most suitable zones for urban farming in Detroit using spatial data and geoprocessing tools in QGIS.
 
@@ -43,9 +43,5 @@ Tools Used
 - QGIS (Buffer, Intersection, Difference)
 - Spatial Data from Detroit Open Data Portal & USDA Soil Survey
 
-
-
----
-
-### 📝 Summary
+ Summary
 A GIS-based assessment of Detroit’s vacant parcels revealed around 700 plots suitable for urban farming, primarily determined by soil quality and spatial proximity. The project highlights how spatial analysis supports sustainable land use and urban food security initiatives.
