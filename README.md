@@ -38,9 +38,8 @@ High-resolution orthophoto inspection confirms that the identified clusters are 
 
 | Site Cluster: Westbrook St / Outer Dr W | Site Cluster: Chalfonte Ave / Beaverland St |
 | :---: | :---: |
-| ![Vacant Plots Cluster 1](assets/Vacant%20plots1.png) | ![Vacant Plots Cluster 2](assets/Vacant%20plots2.png) |
+| <img src="assets/Vacant%20plots1.png" alt="Vacant Plots Cluster 1" width="100%"> | <img src="assets/Vacant%20plots2.png" alt="Vacant Plots Cluster 2" width="100%"> |
 | *Contiguous vacant parcels along Westbrook St adjacent to green space.* | *Clusters near Gwen's Edible Playscape and Eliza Howell Trailhead.* |
-
 ---
 
 ## 🛠️ Data Sources & Geoprocessing Workflow
